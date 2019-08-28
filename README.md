@@ -6,3 +6,6 @@ Please check the ipython notebook for training details.
 
 The trained V3V4 classifier is available at:
 https://drive.google.com/file/d/1CvmZ1ONAi1dl2_TnzVm4Hc4gG6eSz7a5/
+
+Update: V3V4 classifier trained with sklearn 0.21.2. That is, it is compatiable with Qiime2-2019.7.
+https://drive.google.com/open?id=15LDBGnDw638egA9hAdpntssQzEW351bl
